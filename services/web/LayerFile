@@ -1,2 +1,2 @@
 From /LayerFile
-expose website https://localhost:443
+EXPOSE WEBSITE https://localhost:443
