@@ -1,5 +1,5 @@
-From ./LayerFile
+From /LayerFile
 EXPOSE WEBSITE https://localhost:443
 
-copy . . 
+copy .. 
 NPM RUN LINT
