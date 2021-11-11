@@ -1,2 +1,5 @@
-From /LayerFile
+From ./LayerFile
 EXPOSE WEBSITE https://localhost:443
+
+copy
+NPM RUN LINT
